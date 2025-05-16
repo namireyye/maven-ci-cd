@@ -6,7 +6,7 @@ public class Driver {
 		
 		Counter counter = new Counter();
 		
-		System.out.println("Current Count:" + counter.getCounto());
+		System.out.println("Current Count:" + counter.getCount());
 		
 		counter.increment();
 		
